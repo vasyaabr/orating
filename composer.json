@@ -1,0 +1,14 @@
+{
+    "name": "vasyaabr/orating",
+    "type": "project",
+    "authors": [
+        {
+            "name": "vasyaabr",
+            "email": "vasyaabr@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/dom-crawler": "^5.2",
+        "symfony/css-selector": "^5.2"
+    }
+}
