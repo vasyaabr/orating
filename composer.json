@@ -7,6 +7,11 @@
             "email": "vasyaabr@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "orating\\": ""
+        }
+    },
     "require": {
         "symfony/dom-crawler": "^5.2",
         "symfony/css-selector": "^5.2"
